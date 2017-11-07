@@ -24,7 +24,7 @@ IPsec VPN 可以加密你的网络流量，以防止在通过互联网传送数�
 
 首先，我们需要一台国外的服务器，系统可以为Linux、Ubuntu、CentOS……（只要是Linux系统就行）。
 
-本人使用的服务器是在<a href="https://bwh1.net/clientarea.php?action=products" target="_blank">BandwagonHOST</a>购买的，价钱为$2.99/月
+本人使用的服务器是在<a href="https://bwh1.net/index.php" target="_blank">BandwagonHOST</a>购买的，价钱为$2.99/月
 
 使用以下命令快速搭建 IPsec VPN 服务器：
 
